@@ -11,6 +11,9 @@ name
 ## Idea
 Breif Idea in two three sentences 
 
+## Features 
+1. 
+
 ## Link to product walkthrough
 [link to video](Link Here)
 
