@@ -2,7 +2,7 @@
 
 ![Screenshot_2024-03-16_162723](https://github.com/CODE-reCET/CodeRECET24/assets/154266304/f6e1db4a-4064-4130-8406-9128d096e3d7)
 
-# CodeRECET24
+# CodeRECET
 
 
 ## Team Name
