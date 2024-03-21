@@ -1,9 +1,8 @@
 
 
-![Screenshot_2024-03-16_162723](https://github.com/CODE-reCET/CodeRECET24/assets/154266304/f6e1db4a-4064-4130-8406-9128d096e3d7)
-
 # CODE reCET
 
+![Code ReCET BAnner](https://github.com/CODE-reCET/CodeRECET24/assets/154266304/08736571-0016-4aef-840d-94054de99db7)
 
 ## Team Name
 name 
