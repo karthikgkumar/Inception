@@ -64,8 +64,8 @@ const Settings = () => {
                           type="text"
                           name="fullName"
                           id="fullName"
-                          placeholder="Devid Jhon"
-                          defaultValue="Devid Jhon"
+                          placeholder="Sushama"
+                          defaultValue="Sushama"
                         />
                       </div>
                     </div>
@@ -82,8 +82,8 @@ const Settings = () => {
                         type="text"
                         name="phoneNumber"
                         id="phoneNumber"
-                        placeholder="+990 3343 7865"
-                        defaultValue="+990 3343 7865"
+                        placeholder="+XXXXXXXX"
+                        defaultValue="+XXXXXXXX"
                       />
                     </div>
                   </div>
@@ -126,8 +126,8 @@ const Settings = () => {
                         type="email"
                         name="emailAddress"
                         id="emailAddress"
-                        placeholder="devidjond45@gmail.com"
-                        defaultValue="devidjond45@gmail.com"
+                        placeholder="test@gmail.com"
+                        defaultValue="test@gmail.com"
                       />
                     </div>
                   </div>
@@ -137,7 +137,7 @@ const Settings = () => {
                       className="mb-3 block text-sm font-medium text-black dark:text-white"
                       htmlFor="Username"
                     >
-                      Username
+                      sushamapp
                     </label>
                     <input
                       className="w-full rounded border border-stroke bg-gray px-4.5 py-3 text-black focus:border-primary focus-visible:outline-none dark:border-strokedark dark:bg-meta-4 dark:text-white dark:focus:border-primary"
@@ -229,9 +229,15 @@ const Settings = () => {
                   <div className="mb-4 flex items-center gap-3">
                     <div className="h-14 w-14 rounded-full">
                       <Image
-                        src={"/images/user/user-03.png"}
-                        width={55}
-                        height={55}
+                        width={112}
+                        height={112}
+                        src={"/images/Avatar.jpeg"}
+                        style={{
+                          width: "50px",
+                          height: "50px",
+                          objectFit: "cover",
+                          borderRadius: "50%",
+                        }}
                         alt="User"
                       />
                     </div>
