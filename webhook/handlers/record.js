@@ -2,7 +2,7 @@ import { wt } from "../config.js";
 
 export const record = async (recipientPhone) => {
   await wt.sendText({
-    message: "Sure, tell me",
+    message: "Sure go ahead 🌟",
     recipientPhone: recipientPhone,
   });
 };
