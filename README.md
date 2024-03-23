@@ -22,7 +22,7 @@ Relive Memories: Orma will remind you, "It was your son! You had a wonderful tim
 6. Progress Tracking (Caregiver/User): Monitor app usage patterns to understand user behavior and adapt support accordingly.
 
 ## Link to product walkthrough
-[Click here to see demo video](https://www.youtube.com/watch?v=YiZTMH_aplY&t=64s){:target="_blank"}
+[Click here to see demo video](https://www.youtube.com/watch?v=YiZTMH_aplY&t=64s)
    
 ## Libraries used
 - Supabase-js : 2.39.8
