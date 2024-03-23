@@ -299,6 +299,7 @@ const webhook_post = async (req, res) => {
           },
         ],
         model: "gpt-3.5-turbo",
+        temperature: 0,
       });
 
       await wt.sendText({
