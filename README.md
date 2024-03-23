@@ -8,10 +8,9 @@ Inception
 ## Idea
 Orma, a memory journal app for early-stage dementia, lets users save memories via a WhatsApp bot and prompts them with retrieval cues, while caregivers can track user details through a companion website. 
 An example scenario would be <br/>
-
-Store Memories: Simply tell Orma about your experiences with a sentence like "I went to Bangalore and saw my son." <br/>
-Recall Memories: When you forget a detail, ask Orma "I went to Bangalore and met someone. Who was it?"<br/>
-Relive Memories: Orma will remind you, "It was your son! You had a wonderful time together in Bangalore."<br/>
+- Store Memories: Simply tell Orma about your experiences with a sentence like "I went to Bangalore and saw my son."
+- Recall Memories: When you forget a detail, ask Orma "I went to Bangalore and met someone. Who was it?"
+- Relive Memories: Orma will remind you, "It was your son! You had a wonderful time together in Bangalore."
 
 ## Features 
 1. Accessible WhatsApp Chatbot: Easy-to-use for seniors familiar with WhatsApp, minimizing the need to learn new interfaces.
