@@ -26,14 +26,24 @@ Relive Memories: Orma will remind you, "It was your son! You had a wonderful tim
 
    
 ## Libraries used
-Library Name - Version
+- Supabase-js : 2.39.8
+- Express : 4.18.2
+- Mongoose - 8.2.2
+- Whatsapp - 0.0.5
+- OpenAI - 4.29.1
+- Next - 14.1.0
+- Langchain - 0.1.13
 
 
 ## How to configure
-Instructions for setting up project
+1. Clone the repo - `git clone https://github.com/karthikgkumar/Inception`
+2. Go to Frontend,Webhook and run - `npm install`
 
 ## How to Run
-Instructions for running
+1.Create seperate running instances of Frontend and webhook using - `npm run dev`
 
 ## How to contribute ? 
 Features to implement
+- Frontend and supabase integration
+- Embedding model and webhook integration
+- Auth provider setup
