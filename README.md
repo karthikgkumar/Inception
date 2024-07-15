@@ -21,7 +21,7 @@ An example scenario would be <br/>
 6. Progress Tracking (Caregiver/User): Monitor app usage patterns to understand user behavior and adapt support accordingly.
 
 ## Link to product walkthrough
-[Click here to see demo video](https://www.youtube.com/watch?v=YiZTMH_aplY&t=64s)
+[Click here to see demo video](https://www.youtube.com/watch?v=BTkNJ273yms)
    
 ## Libraries used
 - Supabase-js : 2.39.8
